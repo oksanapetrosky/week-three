@@ -20,6 +20,8 @@ Of course, no one template will serve all projects since your needs may be diffe
 <!-- GETTING STARTED -->
 ## Getting Started
 
+There is a very brief explanation for my project, which I will probably make some changes in the nearest future 
+
 ### Prerequisites
 
 First step for our project I would start:
