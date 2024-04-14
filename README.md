@@ -20,7 +20,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 <!-- GETTING STARTED -->
 ## Getting Started
 
-There is a very brief explanation for my project, which I will probably make some changes in the nearest future ☺
+<h3>There is a very brief explanation for my project, which I will probably make some changes in the nearest future<span>☺</span></h3> 
 
 ### Prerequisites
 
