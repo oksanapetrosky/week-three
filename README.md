@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+<h1 align="center">Hello everyone! I'm Oksana Petrosky from USA</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a begginer web developer</h3>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
