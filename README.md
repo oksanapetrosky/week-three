@@ -36,6 +36,7 @@ Start our project:
   ```sh
   npm start
   ```
+![image](https://github.com/oksanapetrosky/week-three/assets/165575688/0708a4a9-4f48-4d18-ac90-f2a6ccf192b9)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
