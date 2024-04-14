@@ -2,13 +2,14 @@
 
 <h1 align="center">Hello everyone! I'm Oksana Petrosky from USA
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a begginer web developer</h3>
+<h3 align="center">I am a begginer web developer
+<img src="😉" </h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+There are many great similar project are available on GitHub;but I created this project to develop my skills with React. I love this project, because it's easy for the begginers and I think that one is not the last!
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
