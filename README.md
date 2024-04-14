@@ -46,7 +46,7 @@ Start our project:
 Oksana Petrosky - [@my instagram](https://www.instagram.com/)
 You also can reach me out via email: oksanapetrosky@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link:(https://github.com/oksanapetrosky/week-three/tree/main/src)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
