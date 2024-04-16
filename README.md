@@ -49,7 +49,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+My project is created with React. To speed up component rendering and updates, React creates a virtual DOM that mimics the real DOM. React is able to improve its speed by updating selective components that have changed thanks to the virtual DOM. This results in quicker rendering and a more seamless experience for the user.
 
 * [![React][React.js]][React-url]
 
